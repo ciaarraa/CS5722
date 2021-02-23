@@ -1,4 +1,7 @@
-package factory_method;
+package Main;
+
+import factory_method.PizzaFactory;
+import factory_method.PizzaStore;
 
 public class Main {
 
